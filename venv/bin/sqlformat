@@ -1,4 +1,4 @@
-#!/home/gun/Documents/DCI-CODE/exercise/december_django_project_inclass/venv/bin/python3
+#!/home/gun/Documents/DCI-CODE/exercise/december_django_project_inclass/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
